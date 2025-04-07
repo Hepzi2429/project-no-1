@@ -1,0 +1,277 @@
+Bus_name,Bus_type,Arrival_time,Departure_time,Total_duration,Price,Seats_Available,Ratings,Route_name,Route_link
+HRTC - 551,A/C Executive (2+3),01:30,15:30,10h 00m,INR 632,34 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC - 525,Ordinary 3+2 Non AC Seater,03:00,16:50,10h 10m,INR 512,27 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC - 532,Ordinary 3+2 Non AC Seater,04:15,17:59,10h 16m,INR 512,27 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC - 2040094,Ordinary 3+2 Non AC Seater,04:15,18:31,09h 44m,INR 512,37 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC - 93,Himsuta AC Seater Volvo/Scania 2+2,04:50,19:35,09h 15m,INR 912,10 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC - 301,Ordinary 3+2 Non AC Seater,05:30,19:43,09h 47m,INR 512,26 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC - 591,A/C Executive (2+3),07:20,21:00,10h 20m,INR 632,28 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC - 8,Himsuta AC Seater Volvo/Scania 2+2,06:30,21:02,09h 28m,INR 912,7 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC - 570,Ordinary 3+2 Non AC Seater,06:45,21:25,09h 20m,INR 512,35 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC - 9,Himsuta AC Seater Volvo/Scania 2+2,07:30,22:00,09h 30m,INR 912,5 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC - 579,Ordinary 3+2 Non AC Seater,08:15,22:30,09h 45m,INR 512,27 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC - 22,Himsuta AC Seater Volvo/Scania 2+2,07:50,23:00,08h 50m,INR 912,5 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC - 564,Ordinary 3+2 Non AC Seater,09:05,23:40,09h 25m,INR 512,33 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+Bedi Travels,Volvo A/C Semi Sleeper (2+2),08:00,23:00,09h 00m,636,17 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),08:00,23:30,08h 30m,INR 799,34 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),07:45,22:55,08h 50m,687,20 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),07:20,22:50,08h 30m,INR 635,13 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+Ram Dalal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),07:40,23:00,08h 40m,637,23 Seats available,N/A,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC - 620,Ordinary 3+2 Non AC Seater,20:40,15:10,05h 30m,INR 364,36 Seats available,N/A,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+HRTC - 401270,Ordinary 3+2 Non AC Seater,21:05,17:05,04h 00m,INR 310,29 Seats available,N/A,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+HRTC - 621,Ordinary 3+2 Non AC Seater,22:00,17:10,04h 50m,INR 364,26 Seats available,N/A,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+HRTC - 15,Himsuta AC Seater Volvo/Scania 2+2,00:10,20:00,04h 10m,INR 545,29 Seats available,N/A,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+HRTC - 622,Ordinary 3+2 Non AC Seater,02:30,21:15,05h 15m,INR 369,37 Seats available,N/A,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+HRTC - 1106,Ordinary 3+2 Non AC Seater,02:00,21:40,04h 20m,INR 310,30 Seats available,N/A,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+Laxmi holidays,Volvo A/C Semi Sleeper (2+2),00:30,20:20,04h 10m,INR 567,6 Seats available,N/A,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),01:20,21:15,04h 05m,569,21 Seats available,N/A,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+Northern Travels,Volvo A/C Semi Sleeper (2+2),01:30,21:45,03h 45m,INR 455,17 Seats available,N/A,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),02:20,22:00,04h 20m,599,22 Seats available,N/A,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+Northern Travels,Volvo A/C Semi Sleeper (2+2),01:15,22:00,03h 15m,INR 515,12 Seats available,N/A,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+HRTC - 1532,Ordinary 3+2 Non AC Seater,20:10,14:00,06h 10m,INR 285,33 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 562,Ordinary 3+2 Non AC Seater,21:10,15:15,05h 55m,INR 285,37 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 551,A/C Executive (2+3),21:05,15:30,05h 35m,INR 400,34 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 524,Ordinary 3+2 Non AC Seater,22:30,16:45,05h 45m,INR 290,37 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 525,Ordinary 3+2 Non AC Seater,22:20,16:50,05h 30m,INR 290,27 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 526,Ordinary 3+2 Non AC Seater,23:00,17:00,06h 00m,INR 275,37 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 532,Ordinary 3+2 Non AC Seater,23:20,17:59,05h 21m,INR 290,27 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 593,Ordinary 3+2 Non AC Seater,23:40,18:20,05h 20m,INR 285,34 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 587,Ordinary 3+2 Non AC Seater,23:00,18:25,04h 35m,INR 285,25 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 549,A/C Executive (2+3),00:40,19:25,05h 15m,INR 390,36 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 548,Ordinary 3+2 Non AC Seater,00:45,19:31,05h 14m,INR 290,20 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 545,Ordinary 3+2 Non AC Seater,00:20,19:32,04h 48m,INR 275,37 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 301,Ordinary 3+2 Non AC Seater,00:20,19:43,04h 37m,INR 290,27 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 553,Ordinary 3+2 Non AC Seater,01:10,19:50,05h 20m,INR 290,20 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 557,Ordinary 3+2 Non AC Seater,01:30,20:15,05h 15m,INR 290,36 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+NueGo,Electric A/C Seater (2+2),17:25,12:30,04h 55m,468,2 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),18:55,13:00,05h 55m,479,11 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+NueGo,Electric A/C Seater/Sleeper (2+1),18:45,13:00,05h 45m,468,8 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+NueGo,Electric A/C Seater (2+2),19:55,14:30,05h 25m,468,28 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+NueGo,Electric A/C Seater (2+2),20:35,15:30,05h 05m,468,34 Seats available,N/A,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 131,Ordinary 3+2 Non AC Seater,19:10,14:42,04h 28m,INR 242,37 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+HRTC - 277,Ordinary 3+2 Non AC Seater,21:30,15:45,05h 45m,INR 242,37 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+HRTC - 1707,Ordinary 3+2 Non AC Seater,20:30,16:28,04h 02m,INR 242,27 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+HRTC - 103,Ordinary 3+2 Non AC Seater,20:19,17:18,03h 01m,INR 242,37 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+HRTC - 227,Ordinary 3+2 Non AC Seater,22:00,17:36,04h 24m,INR 242,37 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+HRTC - 215,Ordinary 3+2 Non AC Seater,22:30,18:00,04h 30m,INR 242,27 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+HRTC - 104,A/C Executive (2+3),21:21,18:20,03h 01m,INR 257,44 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+HRTC - 188,Ordinary 3+2 Non AC Seater,22:26,19:25,03h 01m,INR 242,32 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+HRTC - 1711,Ordinary 3+2 Non AC Seater,23:00,20:00,03h 00m,INR 242,37 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+HRTC - 74,Himsuta AC Seater Volvo/Scania 2+2,22:45,20:00,02h 45m,INR 389,33 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+RSRTC - 192348,Super Luxury Volvo AC Seater Pushback 2+2,21:15,16:30,04h 45m,INR 432,29 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),23:30,20:30,03h 00m,INR 212,30 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:35,20:30,03h 05m,INR 399,34 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+FlixBus,A/C Seater (2+2),01:25,21:00,04h 25m,INR 685.71,35 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+Deltin Travels Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),23:59,21:20,02h 39m,INR 500,34 Seats available,N/A,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+HRTC - 508,A/C Executive (2+3),23:30,14:15,09h 15m,INR 594,40 Seats available,N/A,Chandigarh to Manali,https://www.redbus.in/bus-tickets/chandigarh-to-manali
+HRTC - 2030250,Ordinary 3+2 Non AC Seater,22:30,16:30,06h 00m,INR 554,4 Seats available,N/A,Chandigarh to Manali,https://www.redbus.in/bus-tickets/chandigarh-to-manali
+HRTC - 1507,Ordinary 3+2 Non AC Seater,03:00,18:40,08h 20m,INR 575,36 Seats available,N/A,Chandigarh to Manali,https://www.redbus.in/bus-tickets/chandigarh-to-manali
+HRTC - 58,Himsuta AC Seater Volvo/Scania 2+2,05:00,19:30,09h 30m,INR 1005,30 Seats available,N/A,Chandigarh to Manali,https://www.redbus.in/bus-tickets/chandigarh-to-manali
+HRTC - 1544,Ordinary 3+2 Non AC Seater,05:00,21:40,07h 20m,INR 595,37 Seats available,N/A,Chandigarh to Manali,https://www.redbus.in/bus-tickets/chandigarh-to-manali
+HRTC - 1522,Himsuta AC Seater Volvo/Scania 2+2,06:30,22:00,08h 30m,INR 965,32 Seats available,N/A,Chandigarh to Manali,https://www.redbus.in/bus-tickets/chandigarh-to-manali
+Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),05:30,23:30,06h 00m,INR 599,20 Seats available,N/A,Chandigarh to Manali,https://www.redbus.in/bus-tickets/chandigarh-to-manali
+Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),05:00,22:30,06h 30m,INR 629,26 Seats available,N/A,Chandigarh to Manali,https://www.redbus.in/bus-tickets/chandigarh-to-manali
+Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),06:00,23:45,06h 15m,INR 629,20 Seats available,N/A,Chandigarh to Manali,https://www.redbus.in/bus-tickets/chandigarh-to-manali
+AdGLOBAL HOLIDAYS ADVENTURE TOURS,Volvo A/C Semi Sleeper (2+2),07:00,22:25,08h 35m,563,25 Seats available,N/A,Chandigarh to Manali,https://www.redbus.in/bus-tickets/chandigarh-to-manali
+Zingbus Plus,Volvo A/C Semi Sleeper (2+2),04:50,23:30,05h 20m,795,17 Seats available,N/A,Chandigarh to Manali,https://www.redbus.in/bus-tickets/chandigarh-to-manali
+HRTC - 912,Ordinary 3+2 Non AC Seater,23:10,14:50,08h 20m,INR 462,37 Seats available,N/A,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+HRTC - 911,Ordinary 3+2 Non AC Seater,23:20,14:55,08h 25m,INR 483,37 Seats available,N/A,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+HRTC - 902,Himmani Deluxe 2+2 Non AC Seater,01:20,16:30,08h 50m,INR 551,27 Seats available,N/A,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+HRTC - 904,Ordinary 3+2 Non AC Seater,01:30,19:00,06h 30m,INR 432,43 Seats available,N/A,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+HRTC - 43,Himsuta AC Seater Volvo/Scania 2+2,01:15,19:35,05h 40m,INR 816,31 Seats available,N/A,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+HRTC - 13,Himsuta AC Seater Volvo/Scania 2+2,02:15,20:05,06h 10m,INR 811,19 Seats available,N/A,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+HRTC - 905,Ordinary 3+2 Non AC Seater,02:30,20:15,06h 15m,INR 452,37 Seats available,N/A,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+HRTC - 927,Ordinary 3+2 Non AC Seater,04:10,21:00,07h 10m,INR 469,31 Seats available,N/A,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+Laxmi holidays,VE A/C Semi Sleeper (2+2),23:55,18:30,05h 25m,INR 999,21 Seats available,N/A,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),01:00,19:00,06h 00m,648,20 Seats available,N/A,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),01:20,19:00,06h 20m,INR 499,27 Seats available,N/A,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+FlixBus,Volvo 9600 A/C Semi Sleeper (2+2),01:20,19:15,06h 05m,INR 659.82,22 Seats available,N/A,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),01:40,19:30,06h 10m,722,16 Seats available,N/A,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+HRTC - 127,Himsuta AC Seater Volvo/Scania 2+2,22:00,15:40,06h 20m,INR 472,35 Seats available,N/A,Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala
+HRTC - 573,Himmani Deluxe 2+2 Non AC Seater,02:00,19:40,06h 20m,INR 503,21 Seats available,N/A,Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala
+HRTC - 91,Himsuta AC Seater Volvo/Scania 2+2,04:40,22:10,06h 30m,INR 472,36 Seats available,N/A,Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala
+HRTC - 1236,Himmani Deluxe 2+2 Non AC Seater,05:00,22:20,06h 40m,INR 551,27 Seats available,N/A,Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala
+HRTC - 1213,Ordinary 3+2 Non AC Seater,06:00,22:47,07h 13m,INR 454,21 Seats available,N/A,Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala
+Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),05:30,23:45,05h 45m,INR 699,11 Seats available,N/A,Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala
+Laxmi holidays,VE A/C Semi Sleeper (2+2),05:30,23:50,05h 40m,INR 1399,10 Seats available,N/A,Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala
+HRTC - 725,Ordinary 3+2 Non AC Seater,05:00,13:35,15h 25m,INR 847,37 Seats available,N/A,Manali to Delhi,https://www.redbus.in/bus-tickets/manali-to-delhi
+HRTC - 724,Ordinary 3+2 Non AC Seater,05:30,14:20,15h 10m,INR 842,37 Seats available,N/A,Manali to Delhi,https://www.redbus.in/bus-tickets/manali-to-delhi
+HRTC - 776,Ordinary 3+2 Non AC Seater,05:30,15:20,14h 10m,INR 847,35 Seats available,N/A,Manali to Delhi,https://www.redbus.in/bus-tickets/manali-to-delhi
+HRTC - 801,Ordinary 3+2 Non AC Seater,08:30,15:45,16h 45m,INR 839,30 Seats available,N/A,Manali to Delhi,https://www.redbus.in/bus-tickets/manali-to-delhi
+HRTC - 11,Himsuta AC Seater Volvo/Scania 2+2,05:00,16:00,13h 00m,INR 1488,24 Seats available,N/A,Manali to Delhi,https://www.redbus.in/bus-tickets/manali-to-delhi
+Himachal Pradesh Tourism Development Corporation (HPTDC) - 49532,AC Seater (2+2),06:30,18:30,12h 00m,INR 1600,26 Seats available,N/A,Manali to Delhi,https://www.redbus.in/bus-tickets/manali-to-delhi
+Laxmi holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),07:00,21:30,09h 30m,INR 699,30 Seats available,N/A,Manali to Delhi,https://www.redbus.in/bus-tickets/manali-to-delhi
+Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),06:30,19:00,11h 30m,654,16 Seats available,N/A,Manali to Delhi,https://www.redbus.in/bus-tickets/manali-to-delhi
+AdIntrCity SmartBus,Volvo A/C Semi Sleeper (2+2),07:15,20:45,10h 30m,INR 569,16 Seats available,N/A,Manali to Delhi,https://www.redbus.in/bus-tickets/manali-to-delhi
+IntrCity SmartBus,Volvo 9600 A/C Semi Sleeper (2+2),06:00,19:30,10h 30m,INR 569,10 Seats available,N/A,Manali to Delhi,https://www.redbus.in/bus-tickets/manali-to-delhi
+HRTC - 416,Ordinary 3+2 Non AC Seater,04:15,17:10,11h 05m,INR 634,37 Seats available,N/A,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+HRTC - 587,Ordinary 3+2 Non AC Seater,03:30,18:25,09h 05m,INR 580,27 Seats available,N/A,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+HRTC - 540,Ordinary 3+2 Non AC Seater,08:00,19:00,13h 00m,INR 731,31 Seats available,N/A,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+HRTC - 548,Ordinary 3+2 Non AC Seater,04:45,19:31,09h 14m,INR 580,27 Seats available,N/A,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+HRTC - 552,Ordinary 3+2 Non AC Seater,04:30,19:45,08h 45m,INR 580,19 Seats available,N/A,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+HRTC - 559,Ordinary 3+2 Non AC Seater,08:05,20:29,11h 36m,INR 643,37 Seats available,N/A,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+HRTC - 566,Ordinary 3+2 Non AC Seater,07:30,21:10,10h 20m,INR 604,37 Seats available,N/A,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+HRTC - 571,Ordinary 3+2 Non AC Seater,07:50,21:40,10h 10m,INR 634,19 Seats available,N/A,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+Bedi Travels,Volvo A/C Semi Sleeper (2+2),06:15,21:30,08h 45m,760,11 Seats available,N/A,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),05:55,21:45,08h 10m,694,19 Seats available,N/A,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+Laxmi holidays,Volvo A/C Semi Sleeper (2+2),04:30,20:00,08h 30m,INR 624,16 Seats available,N/A,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),05:55,21:20,08h 35m,665,15 Seats available,N/A,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+Laxmi holidays,Volvo A/C Semi Sleeper (2+2),06:30,22:00,08h 30m,INR 899,20 Seats available,N/A,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+HRTC - 656,Ordinary 3+2 Non AC Seater,05:00,15:10,13h 50m,INR 731,37 Seats available,N/A,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+HRTC - 603,Ordinary 3+2 Non AC Seater,05:00,16:40,12h 20m,INR 643,37 Seats available,N/A,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+HRTC - 602,Ordinary 3+2 Non AC Seater,04:00,17:20,10h 40m,INR 604,37 Seats available,N/A,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+HRTC - 601,Ordinary 3+2 Non AC Seater,04:30,18:30,10h 00m,INR 580,26 Seats available,N/A,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+HRTC - 651,Ordinary 3+2 Non AC Seater,05:00,19:40,09h 20m,INR 580,29 Seats available,N/A,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+HRTC - 15,Himsuta AC Seater Volvo/Scania 2+2,04:30,20:00,08h 30m,INR 1068,14 Seats available,N/A,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+HRTC - 402617,Ordinary 3+2 Non AC Seater,05:15,20:30,08h 45m,INR 580,36 Seats available,N/A,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+HRTC - 1106,Ordinary 3+2 Non AC Seater,06:30,21:40,08h 50m,INR 580,37 Seats available,N/A,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+Bedi Travels,Volvo A/C Semi Sleeper (2+2),06:30,22:05,08h 25m,665,14 Seats available,N/A,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),05:15,21:15,08h 00m,569,21 Seats available,N/A,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+Laxmi holidays,Volvo A/C Semi Sleeper (2+2),07:00,22:05,08h 55m,INR 599,30 Seats available,N/A,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),06:40,22:00,08h 40m,599,22 Seats available,N/A,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+Laxmi holidays,Volvo A/C Semi Sleeper (2+2),04:30,20:20,08h 10m,INR 657,6 Seats available,N/A,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+HRTC - 104,A/C Executive (2+3),04:30,19:31,08h 59m,INR 529,44 Seats available,N/A,Solan to Delhi,https://www.redbus.in/bus-tickets/solan-to-delhi
+HRTC - 188,Ordinary 3+2 Non AC Seater,04:57,20:36,08h 21m,INR 409,32 Seats available,N/A,Solan to Delhi,https://www.redbus.in/bus-tickets/solan-to-delhi
+HRTC - 74,Himsuta AC Seater Volvo/Scania 2+2,05:00,21:10,07h 50m,INR 741,20 Seats available,N/A,Solan to Delhi,https://www.redbus.in/bus-tickets/solan-to-delhi
+HRTC - 3,Himsuta AC Seater Volvo/Scania 2+2,06:00,22:30,07h 30m,INR 741,28 Seats available,N/A,Solan to Delhi,https://www.redbus.in/bus-tickets/solan-to-delhi
+HRTC - 108,A/C Executive (2+3),06:52,22:31,08h 21m,INR 529,40 Seats available,N/A,Solan to Delhi,https://www.redbus.in/bus-tickets/solan-to-delhi
+HRTC - 130,Ordinary 3+2 Non AC Seater,06:15,22:45,07h 30m,INR 409,37 Seats available,N/A,Solan to Delhi,https://www.redbus.in/bus-tickets/solan-to-delhi
+HRTC - 35,Himsuta AC Seater Volvo/Scania 2+2,06:15,23:00,07h 15m,INR 741,30 Seats available,N/A,Solan to Delhi,https://www.redbus.in/bus-tickets/solan-to-delhi
+HRTC - 92,Himsuta AC Seater Volvo/Scania 2+2,07:20,23:40,07h 40m,INR 741,34 Seats available,N/A,Solan to Delhi,https://www.redbus.in/bus-tickets/solan-to-delhi
+RSRTC - 192348,Super Luxury Volvo AC Seater Pushback 2+2,02:30,17:47,08h 43m,INR 925,27 Seats available,N/A,Solan to Delhi,https://www.redbus.in/bus-tickets/solan-to-delhi
+Bedi Travels,Volvo A/C Semi Sleeper (2+2),05:30,22:45,06h 45m,523,23 Seats available,N/A,Solan to Delhi,https://www.redbus.in/bus-tickets/solan-to-delhi
+Ram Dalal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),06:40,23:20,07h 20m,523,33 Seats available,N/A,Solan to Delhi,https://www.redbus.in/bus-tickets/solan-to-delhi
+Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),04:45,21:40,07h 05m,INR 499,25 Seats available,N/A,Solan to Delhi,https://www.redbus.in/bus-tickets/solan-to-delhi
+Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),05:20,21:50,07h 30m,512,29 Seats available,N/A,Solan to Delhi,https://www.redbus.in/bus-tickets/solan-to-delhi
+HRTC - 508,A/C Executive (2+3),22:04,14:15,07h 49m,INR 507,40 Seats available,N/A,Chandigarh to Kullu,https://www.redbus.in/bus-tickets/chandigarh-to-kullu
+HRTC - 2030250,Ordinary 3+2 Non AC Seater,21:38,16:30,05h 08m,INR 467,8 Seats available,N/A,Chandigarh to Kullu,https://www.redbus.in/bus-tickets/chandigarh-to-kullu
+HRTC - 1507,Ordinary 3+2 Non AC Seater,01:50,18:40,07h 10m,INR 488,36 Seats available,N/A,Chandigarh to Kullu,https://www.redbus.in/bus-tickets/chandigarh-to-kullu
+HRTC - 58,Himsuta AC Seater Volvo/Scania 2+2,04:00,20:40,07h 20m,INR 820,34 Seats available,N/A,Chandigarh to Kullu,https://www.redbus.in/bus-tickets/chandigarh-to-kullu
+HRTC - 1544,Ordinary 3+2 Non AC Seater,04:00,21:40,06h 20m,INR 507,37 Seats available,N/A,Chandigarh to Kullu,https://www.redbus.in/bus-tickets/chandigarh-to-kullu
+HRTC - 1522,Himsuta AC Seater Volvo/Scania 2+2,05:00,22:00,07h 00m,INR 820,24 Seats available,N/A,Chandigarh to Kullu,https://www.redbus.in/bus-tickets/chandigarh-to-kullu
+City Land Travels,Volvo A/C Semi Sleeper (2+2),05:00,22:15,06h 45m,576,33 Seats available,N/A,Chandigarh to Kullu,https://www.redbus.in/bus-tickets/chandigarh-to-kullu
+GLOBAL HOLIDAYS ADVENTURE TOURS,Volvo A/C Semi Sleeper (2+2),06:00,22:25,07h 35m,719,25 Seats available,N/A,Chandigarh to Kullu,https://www.redbus.in/bus-tickets/chandigarh-to-kullu
+Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),04:15,22:30,05h 45m,INR 629,24 Seats available,N/A,Chandigarh to Kullu,https://www.redbus.in/bus-tickets/chandigarh-to-kullu
+Supreme Travels,Volvo A/C (2+2),05:00,22:30,06h 30m,INR 897,23 Seats available,N/A,Chandigarh to Kullu,https://www.redbus.in/bus-tickets/chandigarh-to-kullu
+Zingbus Plus,Volvo A/C Semi Sleeper (2+2),04:05,23:30,04h 35m,816,17 Seats available,N/A,Chandigarh to Kullu,https://www.redbus.in/bus-tickets/chandigarh-to-kullu
+HRTC - 1151,Ordinary 3+2 Non AC Seater,22:40,14:00,08h 40m,INR 390,37 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+HRTC - 967,Ordinary 3+2 Non AC Seater,22:00,15:00,07h 00m,INR 390,36 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+HRTC - 912,Ordinary 3+2 Non AC Seater,23:10,15:40,07h 30m,INR 420,37 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+HRTC - 911,Ordinary 3+2 Non AC Seater,23:20,16:15,07h 05m,INR 420,37 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+HRTC - 1104,Ordinary 3+2 Non AC Seater,00:20,17:20,07h 00m,INR 390,31 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+HRTC - 1109,Ordinary 3+2 Non AC Seater,00:20,17:50,06h 30m,INR 416,32 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+HRTC - 902,Himmani Deluxe 2+2 Non AC Seater,01:20,19:00,06h 20m,INR 428,26 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+HRTC - 1134,Ordinary 3+2 Non AC Seater,00:40,19:00,05h 40m,INR 390,29 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+HRTC - 951,Ordinary 3+2 Non AC Seater,00:45,19:25,05h 20m,INR 390,25 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+HRTC - 904,Ordinary 3+2 Non AC Seater,01:30,19:35,05h 55m,INR 395,34 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+Laxmi holidays,VE A/C Semi Sleeper (2+2),23:55,19:05,04h 50m,INR 999,21 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),01:20,19:40,05h 40m,INR 499,27 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),01:00,19:45,05h 15m,648,20 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+Northern Travels,Volvo A/C Semi Sleeper (2+2),01:00,19:45,05h 15m,INR 555,21 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+FlixBus,Volvo 9600 A/C Semi Sleeper (2+2),01:20,19:55,05h 25m,INR 561.61,9 Seats available,N/A,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+HRTC - 551,A/C Executive (2+3),23:55,15:30,08h 25m,INR 529,34 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+HRTC - 532,Ordinary 3+2 Non AC Seater,02:15,17:59,08h 16m,INR 409,27 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+HRTC - 301,Ordinary 3+2 Non AC Seater,03:00,19:43,07h 17m,INR 409,27 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+HRTC - 591,A/C Executive (2+3),05:50,21:00,08h 50m,INR 529,42 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+HRTC - 8,Himsuta AC Seater Volvo/Scania 2+2,04:40,21:02,07h 38m,INR 741,6 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+HRTC - 570,Ordinary 3+2 Non AC Seater,05:25,21:25,08h 00m,INR 409,37 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+HRTC - 9,Himsuta AC Seater Volvo/Scania 2+2,06:00,22:00,08h 00m,INR 741,5 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+HRTC - 579,Ordinary 3+2 Non AC Seater,06:20,22:30,07h 50m,INR 409,27 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+HRTC - 22,Himsuta AC Seater Volvo/Scania 2+2,06:50,23:00,07h 50m,INR 741,5 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+HRTC - 564,Ordinary 3+2 Non AC Seater,07:40,23:40,08h 00m,INR 409,37 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+Bedi Travels,Volvo A/C Semi Sleeper (2+2),06:45,23:00,07h 45m,655,17 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+Laxmi holidays,Volvo A/C Semi Sleeper (2+2),06:40,23:25,07h 15m,INR 750,17 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),06:55,23:30,07h 25m,INR 799,34 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),06:30,22:55,07h 35m,673,20 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+Ram Dalal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),06:30,23:00,07h 30m,627,23 Seats available,N/A,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+HRTC - 153,Himsuta AC Seater Volvo/Scania 2+2,04:15,19:30,08h 45m,INR 1008,34 Seats available,N/A,Shimla to Dehradun,https://www.redbus.in/bus-tickets/shimla-to-dehradun
+HRTC - 230,A/C Executive (2+3),05:30,20:20,09h 10m,INR 590,44 Seats available,N/A,Shimla to Dehradun,https://www.redbus.in/bus-tickets/shimla-to-dehradun
+Royal Safari India Travels,A/C Seater Push Back (2+2),20:15,14:00,06h 15m,INR 760.95,45 Seats available,N/A,Shimla to Dehradun,https://www.redbus.in/bus-tickets/shimla-to-dehradun
+HRTC - 953,Ordinary 3+2 Non AC Seater,23:50,14:30,09h 20m,INR 518,37 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+HRTC - 955,Ordinary 3+2 Non AC Seater,23:55,14:40,09h 15m,INR 478,37 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+HRTC - 952,Ordinary 3+2 Non AC Seater,00:20,15:45,08h 35m,INR 475,37 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+HRTC - 1109,Ordinary 3+2 Non AC Seater,00:20,16:30,07h 50m,INR 501,37 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+HRTC - 1134,Ordinary 3+2 Non AC Seater,00:40,17:30,07h 10m,INR 476,32 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+HRTC - 1106,Ordinary 3+2 Non AC Seater,02:00,18:10,07h 50m,INR 483,37 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+HRTC - 951,Ordinary 3+2 Non AC Seater,00:45,18:12,06h 33m,INR 476,37 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+HRTC - 622,Ordinary 3+2 Non AC Seater,02:30,18:20,08h 10m,INR 509,37 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+HRTC - 1152,Ordinary 3+2 Non AC Seater,03:00,20:00,07h 00m,INR 482,15 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+HRTC - 1103,A/C Executive (2+3),03:00,20:40,06h 20m,INR 511,42 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+Laxmi holidays,Volvo A/C Semi Sleeper (2+2),00:30,18:15,06h 15m,INR 648,4 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),01:20,18:40,06h 40m,569,21 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+Northern Travels,Volvo A/C Semi Sleeper (2+2),01:00,18:45,06h 15m,INR 555,21 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+Bedi Travels,Volvo 9600 A/C Semi Sleeper (2+2),01:45,19:05,06h 40m,648,14 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),01:15,19:15,06h 00m,665,17 Seats available,N/A,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+HRTC - 401260,Ordinary 3+2 Non AC Seater,18:55,14:30,04h 25m,INR 240,37 Seats available,N/A,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh
+HRTC - 761,Ordinary 3+2 Non AC Seater,20:45,16:30,04h 15m,INR 240,37 Seats available,N/A,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh
+HRTC - 401270,Ordinary 3+2 Non AC Seater,21:05,18:10,02h 55m,INR 218,34 Seats available,N/A,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh
+HRTC - 685,Ordinary 3+2 Non AC Seater,23:40,19:10,04h 30m,INR 240,36 Seats available,N/A,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh
+HRTC - 763,Ordinary 3+2 Non AC Seater,22:50,19:40,03h 10m,INR 223,37 Seats available,N/A,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh
+HRTC - 700,Himsuta AC Seater Volvo/Scania 2+2,23:30,20:00,03h 30m,INR 459,34 Seats available,N/A,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh
+HRTC - 750,A/C Executive (2+3),00:40,20:30,04h 10m,INR 270,44 Seats available,N/A,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh
+HRTC - 1107,Ordinary 3+2 Non AC Seater,23:20,20:30,02h 50m,INR 218,36 Seats available,N/A,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh
+Northern Travels,Volvo A/C Semi Sleeper (2+2),01:30,22:50,02h 40m,INR 455,18 Seats available,N/A,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh
+Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),02:20,23:00,03h 20m,599,22 Seats available,N/A,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh
+Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),01:30,23:00,02h 30m,495,2 Seats available,N/A,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh
+Northern Travels,Volvo A/C Semi Sleeper (2+2),01:15,23:14,02h 01m,INR 515,12 Seats available,N/A,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh
+Laxmi holidays,Volvo A/C Semi Sleeper (2+2),00:30,21:30,03h 00m,INR 752,4 Seats available,N/A,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh
+HRTC - 1532,Ordinary 3+2 Non AC Seater,22:50,14:00,08h 50m,INR 462,33 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+HRTC - 586,Ordinary 3+2 Non AC Seater,02:50,17:40,09h 10m,INR 469,28 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+HRTC - 530,Ordinary 3+2 Non AC Seater,02:50,18:20,08h 30m,INR 469,37 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+HRTC - 549,A/C Executive (2+3),04:10,19:25,08h 45m,INR 594,36 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+HRTC - 554,Ordinary 3+2 Non AC Seater,07:00,20:00,11h 00m,INR 460,44 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+HRTC - 597,Himsuta AC Seater Volvo/Scania 2+2,04:25,20:35,07h 50m,INR 913,32 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+HRTC - 563,Ordinary 3+2 Non AC Seater,05:45,20:50,08h 55m,INR 469,33 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+HRTC - 600,Himsuta AC Seater Volvo/Scania 2+2,06:30,21:50,08h 40m,INR 883,21 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+HRTC - 583,Ordinary 3+2 Non AC Seater,06:15,22:02,08h 13m,INR 469,33 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+HRTC - 580,Ordinary 3+2 Non AC Seater,09:00,22:45,10h 15m,INR 452,36 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+Laxmi holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),06:20,23:00,07h 20m,INR 899,43 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+Laxmi holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),05:00,22:00,07h 00m,INR 764,24 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+City Land Travels,Scania Multi-Axle AC Semi Sleeper (2+2),08:15,23:55,08h 20m,673,38 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),04:30,21:00,07h 30m,INR 700,7 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+Deltin Travels Pvt Ltd,Volvo 9600 A/C Semi Sleeper (2+2),05:30,22:30,07h 00m,INR 700,32 Seats available,N/A,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+HRTC - 1137,Ordinary 3+2 Non AC Seater,20:15,14:25,05h 50m,INR 390,37 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+HRTC - 1526,Ordinary 3+2 Non AC Seater,21:00,15:30,05h 30m,INR 390,27 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+HRTC - 127,Himsuta AC Seater Volvo/Scania 2+2,21:40,15:40,06h 00m,INR 430,39 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+HRTC - 1514,Ordinary 3+2 Non AC Seater,22:45,16:00,06h 45m,INR 420,37 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+HRTC - 1533,Himsuta AC Seater Volvo/Scania 2+2,23:30,17:25,06h 05m,INR 710,31 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+HRTC - 573,Himmani Deluxe 2+2 Non AC Seater,01:15,19:40,05h 35m,INR 460,21 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+HRTC - 1505,Ordinary 3+2 Non AC Seater,02:25,20:16,06h 09m,INR 390,37 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+HRTC - 1150,Ordinary 3+2 Non AC Seater,03:25,20:30,06h 55m,INR 396,37 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+HRTC - 1524,Ordinary 3+2 Non AC Seater,04:15,22:00,06h 15m,INR 402,27 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+HRTC - 91,Himsuta AC Seater Volvo/Scania 2+2,04:05,22:10,05h 55m,INR 430,36 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+HRTC - 1236,Himmani Deluxe 2+2 Non AC Seater,04:00,22:20,05h 40m,INR 428,27 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+HRTC - 1213,Ordinary 3+2 Non AC Seater,05:30,22:47,06h 43m,INR 412,37 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),05:00,23:45,05h 15m,INR 500,12 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),05:10,23:55,05h 15m,INR 599,10 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+Laxmi holidays,VE A/C Semi Sleeper (2+2),04:50,23:50,05h 00m,INR 1399,10 Seats available,N/A,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+HRTC - 843,Ordinary 3+2 Non AC Seater,04:00,15:55,12h 05m,INR 548,37 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+HRTC - 775,Ordinary 3+2 Non AC Seater,01:30,16:35,08h 55m,INR 554,31 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+HRTC - 766,Ordinary 3+2 Non AC Seater,05:00,18:00,11h 00m,INR 563,27 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+HRTC - 751,Ordinary 3+2 Non AC Seater,05:00,18:00,11h 00m,INR 541,35 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+HRTC - 725,Ordinary 3+2 Non AC Seater,05:00,19:00,10h 00m,INR 554,37 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+HRTC - 776,Ordinary 3+2 Non AC Seater,05:30,20:00,09h 30m,INR 554,37 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+HRTC - 11,Himsuta AC Seater Volvo/Scania 2+2,05:00,20:10,08h 50m,INR 1002,24 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+HRTC - 801,Ordinary 3+2 Non AC Seater,08:30,20:45,11h 45m,INR 546,37 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+HRTC - 736,Himsuta AC Seater Volvo/Scania 2+2,06:00,21:10,08h 50m,INR 1002,35 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+HRTC - 705,Himsuta AC Seater Volvo/Scania 2+2,07:00,22:10,08h 50m,INR 1002,15 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+IntrCity SmartBus,Volvo 9600 A/C Semi Sleeper (2+2),06:00,22:25,07h 35m,INR 569,10 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+IntrCity SmartBus,Volvo 9600 A/C Semi Sleeper (2+2),04:35,20:05,08h 30m,INR 529,10 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),04:15,20:20,07h 55m,INR 539,11 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),06:20,22:30,07h 50m,599,26 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),06:00,22:10,07h 50m,646,14 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-delhi
+HRTC - 50,Ordinary 3+2 Non AC Seater,18:10,14:00,04h 10m,INR 275,27 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
+HRTC - 57,Himsuta AC Seater Volvo/Scania 2+2,18:20,14:30,03h 50m,INR 498,35 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
+HRTC - 775,Ordinary 3+2 Non AC Seater,20:30,16:35,03h 55m,INR 284,33 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
+HRTC - 766,Ordinary 3+2 Non AC Seater,23:00,18:00,05h 00m,INR 293,23 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
+HRTC - 725,Ordinary 3+2 Non AC Seater,22:30,19:00,03h 30m,INR 284,37 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
+HRTC - 815,Ordinary 3+2 Non AC Seater,23:30,19:00,04h 30m,INR 301,27 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
+HRTC - 776,Ordinary 3+2 Non AC Seater,00:10,20:00,04h 10m,INR 284,35 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
+HRTC - 11,Himsuta AC Seater Volvo/Scania 2+2,00:01,20:10,03h 51m,INR 479,35 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
+HRTC - 49,Himsuta AC Seater Volvo/Scania 2+2,02:00,20:30,05h 30m,INR 498,34 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
+HRTC - 801,Ordinary 3+2 Non AC Seater,02:30,20:45,05h 45m,INR 271,37 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
+City Land Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:20,19:00,03h 20m,493,41 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
+Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),22:40,19:10,03h 30m,INR 915,3 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
+ReoBus Pro,Volvo 9600 Multi Axle Semi-Sleeper (2+2),22:40,19:30,03h 10m,INR 597,37 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
+Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:50,19:30,03h 20m,INR 500,36 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
+Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:10,20:00,03h 10m,INR 499,32 Seats available,N/A,Sunder Nagar (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sundernagar-himachal-pradesh-to-chandigarh
