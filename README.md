@@ -1,2 +1,6 @@
-# project-no-1
-RedBus Route Explorer is a Streamlit web app that lets users browse and filter bus routes across Indian states using fare, time, and type filters. Data is stored in MySQL and CSVs. It's ideal for learning database-connected apps and building simple, interactive dashboards with Python.
+# Redbus Data Scraping with Selenium & Dynamic Filtering using Streamlit
+RedBus Route Explorer is a Streamlit-based web application that simulates the core features of an online bus booking system. It allows users to browse and filter bus routes across various Indian states like Andhra Pradesh, Kerala, Bihar, Telangana, and more. Built with Python and MySQL, the app fetches real-time bus details from a database while route names are loaded from state-specific CSV files.
+
+Users can select a state, choose a route, and apply filters such as bus type, fare range, and departure time. Bus types include Sleeper, Semi-Sleeper, AC, and Non-AC variants, while fares can be filtered across ranges like ₹50–1000, ₹1000–2000, or above ₹2000. Based on the selected filters, the app dynamically runs SQL queries and displays relevant buses in a clean, tabular format.
+
+Each bus listing includes important details like bus name, type, departure and arrival times, duration, fare, available seats, and ratings. The project demonstrates how to integrate a Streamlit frontend with a MySQL backend and apply user-driven filters in real-time. It’s a great example for anyone looking to learn database-connected apps, interactive dashboards, or travel data visualization using Python.
